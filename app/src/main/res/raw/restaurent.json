@@ -1,0 +1,163 @@
+[
+    {
+      "name":"MAKANAN",
+      "delivery_charge": 10,
+      "image":"https://img.icons8.com/doodle/344/noodles--v1.png",
+
+      "menus": [
+        {
+          "name": "Shoyu Ramen",
+          "price": 35.000,
+          "url": "https://cdn-image.hipwee.com/wp-content/uploads/2019/09/hipwee-miso-chicken-ramen-XL-RECIPE1217.jpg"
+        },
+        {
+          "name": "Miso Ramen",
+          "price": 35.000,
+          "url": "https://i.pinimg.com/originals/80/21/74/802174f6255a59754e37c2969be74200.jpg"
+        },
+        {
+          "name": "Curry Ramen",
+          "price": 35.000,
+          "url": "https://th.bing.com/th/id/OIP.vvzhOk1RX8wzhlE0Mgdw6wHaFj?pid=ImgDet&rs=1"
+        },
+        {
+          "name": "Shio Ramen",
+          "price": 30.000,
+          "url": "https://fnbpreneur.id/wp-content/uploads/2021/12/jenis-ramen-shio.jpg"
+        },
+        {
+          "name": "Tsukemen Ramen",
+          "price": 40.000,
+          "url": "https://fnbpreneur.id/wp-content/uploads/2021/12/tsukemen-ramen-jenis-ramen-terenak.jpg"
+        },
+        {
+          "name": "Champon Ramen",
+          "price": 35.000,
+          "url": "https://fnbpreneur.id/wp-content/uploads/2021/12/champon-ramen.jpg"
+        },
+        {
+          "name": "Kurume Ramen",
+          "price": 35.000,
+          "url": "https://fnbpreneur.id/wp-content/uploads/2021/12/kurume-ramen.jpg"
+        },
+        {
+          "name": "Tokyo Ramen",
+          "price": 35.000,
+          "url": "https://fnbpreneur.id/wp-content/uploads/2021/12/tokyo-ramen-jenis-ramen-khas.jpg"
+        },
+        {
+          "name": "Tokushima Ramen",
+          "price": 38.000,
+          "url": "https://fnbpreneur.id/wp-content/uploads/2021/12/tokushima-ramen.jpg"
+        },
+        {
+          "name": "Cold Ramen",
+          "price": 40.000,
+          "url": "https://fnbpreneur.id/wp-content/uploads/2021/12/cold-ramen.jpg"
+        }
+      ]
+    },
+    {
+      "name":"MINUMAN",
+      "address":"469 W Huron St.",
+      "delivery_charge": 10,
+      "image":"https://img.icons8.com/external-flatart-icons-flat-flatarticons/344/external-drink-night-party-flatart-icons-flat-flatarticons.png",
+
+      "menus": [
+        {
+          "name": "Iced Lemon Tea",
+          "price": 18.000,
+          "url": "https://jooinn.com/images/iced-lemon-tea-3.jpg"
+        },
+        {
+          "name": "Iced Red Velvet",
+          "price": 25.000,
+          "url": "https://www.cookiedoughandovenmitt.com/wp-content/uploads/2017/09/bloody-red-velvet-hot-chocolate.jpg"
+        },
+        {
+          "name": "Iced Green Tea",
+          "price": 25.000,
+          "url": "https://th.bing.com/th/id/OIP.kmEDRJI0ue60rfd5yxuWOAHaLH?pid=ImgDet&rs=1"
+        },
+        {
+          "name": "Thai Tea",
+          "price": 20.000,
+          "url": "https://www.taste-institute.com:8080/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnUvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ce7968cddf9942af65469f760d2282b28adf4a3/9018759_1604077231.4198167"
+        },
+        {
+          "name": "Milkshake",
+          "price": 22.000,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 25.000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 25.000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Cookies n'Cream MilkShake",
+          "price": 30.000,
+          "url": "https://goodiegodmother.com/wp-content/uploads/2019/08/creamy-cookies-and-cream-milkshake-4.jpg"
+        },
+        {
+          "name": "Iced Fresh Milk",
+          "price": 20.000,
+          "url": "https://une-journee-a-paris.com/wp-content/uploads/2016/12/iced-fresh-milk.jpg"
+        },
+        {
+          "name": "Cheesecake Milkshake",
+          "price": 25.000,
+          "url": "https://www.chocolatemoosey.com/wp-content/uploads/2015/02/Cheesecake-Milkshakes-photo-1954.jpg"
+        },
+        {
+          "name": "Strawberry Cheesecake Milkshake",
+          "price": 30.000,
+          "url": "https://www.queensleeappetit.com/wp-content/uploads/2019/05/Strawberry-Cheesecake-Milkshake-0.jpg"
+        }
+      ]
+    },
+  {
+    "name":"DESSERT",
+    "address":"10975 State Bridge Rd.",
+    "delivery_charge": 10,
+    "image":"https://img.icons8.com/external-smashingstocks-thin-outline-color-smashing-stocks/344/external-dessert-party-and-celebrations-smashingstocks-thin-outline-color-smashing-stocks.png",
+
+    "menus": [
+      {
+        "name": "Chookies n'Cream Pudding Cookies",
+        "price": 25.000,
+        "url": "https://i0.wp.com/www.abajillianrecipes.com/wp-content/uploads/2014/08/DSC_0385edit2.jpg"
+      },
+      {
+        "name": "Chookies n'Cream Ice Cream",
+        "price": 20.000,
+        "url": "https://1.bp.blogspot.com/-Bg7UYtZjOeU/XxDV37vZqoI/AAAAAAAAy5Q/2y2cOFv7U_Qhjm_L0RRrogJqkTlmYzITACLcBGAsYHQ/s1600/No-Churn-Cookies-and-Cream-Ice-Cream%2B1.JPG"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 15.000,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Strawberry Pretzel",
+        "price": 25.000,
+        "url": "https://www.justataste.com/wp-content/uploads/2020/05/strawberry-pretzel-dessert-cups-recipe.jpg"
+      },
+      {
+        "name": "Waffles Birthday Syndae",
+        "price": 25.000,
+        "url": "https://fun-squared.com/wp-content/uploads/2018/02/Dessert-Waffles-Birthday-Sundaes.jpg"
+      },
+      {
+        "name": "Lemon lush",
+        "price": 18.000,
+        "url": "https://th.bing.com/th/id/R.62fe032374a362d9504590ae6305f141?rik=OhCkkLkelVLsDw&riu=http%3a%2f%2fsugarspunrun.com%2fwp-content%2fuploads%2f2015%2f04%2fIMG_1779.jpg&ehk=1YCs5HVpgpIO11hiRTg2IgCykq3qUzl1rcpAuZVaVb0%3d&risl=&pid=ImgRaw&r=0"
+      }
+    ]
+  }
+]

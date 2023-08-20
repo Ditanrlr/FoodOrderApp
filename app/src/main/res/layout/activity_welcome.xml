@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WelcomeActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="237dp"
+        android:layout_height="201dp"
+        android:src="@drawable/ramen"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.105" />
+
+    <TextView
+        android:id="@+id/btnLogout"
+        android:layout_width="336dp"
+        android:layout_height="260dp"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="60dp"
+        android:background="@drawable/button_bg"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="Aplikasi ini merupakan Aplikasi pemesanan makanan yang dikhususkan untuk makanan berupa ramen.
+Didalamnya terdapat berbagai jenis ramen,tidak hanya ramen didalam aplikasi ini juga terdapat berbagai jenis minuman dan dessert.
+Cara pemesanannya yaitu hanya memilih makanan yang tersedia,setelah itu kita bisa memilih pickup atau delivery dan mengisi data diri yang telah tersedia."
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.593" />
+
+
+    <Button
+        android:id="@+id/buttonr"
+        android:layout_width="130dp"
+        android:layout_height="63dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_bg"
+        android:text="registrasi"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.807"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.917"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="130dp"
+        android:layout_height="63dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_bg"
+        android:text="login"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.231"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.917"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "931741117661",
+    "project_id": "foodorderapp-38bb5",
+    "storage_bucket": "foodorderapp-38bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931741117661:android:ea6e869605cf89edfb3f34",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931741117661-g220cafnfj23fricr3rgk5gnrivpuu5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.foodorderapp",
+            "certificate_hash": "f390c89953901f2c05dcd11f1a589040bee4b47f"
+          }
+        },
+        {
+          "client_id": "931741117661-pmck7d7a9a3n41cjv5vcr9bri3s4egqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEnTVzjqcS_bJCc88UcJYKmU8gNW1dYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931741117661-pmck7d7a9a3n41cjv5vcr9bri3s4egqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

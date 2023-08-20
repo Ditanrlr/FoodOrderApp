@@ -1,0 +1,502 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\446c24fd4874baaaef6cc596145fec7b\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a12a64f6f966aec91edfe70816a0c676\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\c3a8f46195f835e4b61fe40ebe3a25fe\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a69017cce96baf4931d08585db65cf95\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:17:1-73:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7a2653a1d183a57f9da394fcf3867c76\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\663d76dc1b22fc662582e38aac757ed8\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4904b48608e4679808f1ebc5a6fd8615\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\0637ccca3c8e2a9d09cc8d4b034d3341\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bfffe2268c8fc298f467db78899922fc\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\30a656a144adb9370054f6a7a253f9e4\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\16d93dbe90f687f8fbe5ab9317d339d8\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\6845eb483634f6505220a2bc4ffeef61\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\668d1055f80a225c77821dcfe83fa06f\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\3d036c4ec6f7c9f0c8bfb9608d0196b9\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e231d2685c3ba59e75777f1b0208af92\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\954714e9e25ac476b16b453e49ffc21e\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\35f4199c55a06662ccc5371e0788e784\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d95258cd9b576983a3a2138220c82fb5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1a89668d432483fc8231fd87eb156294\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\653fc963629ec2fe6c7237f1a52dc3a3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\f9d3eb4b5ff587969bc3a293e8ea18ed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\599c462550e676cd393ae675ac7da255\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e13e44dad9a0fd7a5608e736f0419bac\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1798cb46206aaa543f2564a6084d4816\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\70749ac521926678d6f9164bcaa6c6b3\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\3da9df4e5d28ad0b874b022913a29954\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\34735fbdf09b2a9ea316524f90ad5634\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\815eff00d8453cbedb4f65811f60fdcc\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\b2fba923daa7b56b029a0f3971599d7c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e13d270b284b33b8627196e37d61c989\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\10bbcd513cbde73a791c5db0b00796ef\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\da0c6217a49944ab951bad05be13d6c8\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\816f103ef7cb5f90fce5a748d71047e7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a45ad8a9aeba5c09439d4b03d8f8f039\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e5812ccb032d2fe953a12d8f79e04290\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d6d3d02316e5bf9afe66e524c4dc1f4a\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fef96ff1e8f596b0185ebf2c2c908ff0\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc57227fc39e3c623d63dbd1b7c943ec\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1d446565e575b16a164ada240890887d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e783f050c7cbb7e22dcf477b29c97b77\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4045c111d475dbfa37e8ec329cec6829\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d8a2a92342ac075099ee2c807cf8d005\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e5d3cd0abb2516350ba6bd77852d5ce4\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4c0d66fee0c31f7cfe7ec10a110356f3\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\800ef25dde47bcd4d6f02b9ae8d1b763\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4e0c21825b0c1593eff6523411f00e6b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\9fe5f9aacdfa5ed166e1f29d068c81a3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\07ef08cefe56f557fde1ad795932a8eb\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ed0c3676b9645a39b2550cf86e3b3379\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:4:3-64
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:4:20-62
+application
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\446c24fd4874baaaef6cc596145fec7b\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\446c24fd4874baaaef6cc596145fec7b\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a12a64f6f966aec91edfe70816a0c676\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a12a64f6f966aec91edfe70816a0c676\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a69017cce96baf4931d08585db65cf95\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a69017cce96baf4931d08585db65cf95\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:26:5-71:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7a2653a1d183a57f9da394fcf3867c76\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7a2653a1d183a57f9da394fcf3867c76\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4904b48608e4679808f1ebc5a6fd8615\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4904b48608e4679808f1ebc5a6fd8615\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\30a656a144adb9370054f6a7a253f9e4\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\30a656a144adb9370054f6a7a253f9e4\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\6845eb483634f6505220a2bc4ffeef61\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\6845eb483634f6505220a2bc4ffeef61\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\3d036c4ec6f7c9f0c8bfb9608d0196b9\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\3d036c4ec6f7c9f0c8bfb9608d0196b9\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e231d2685c3ba59e75777f1b0208af92\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e231d2685c3ba59e75777f1b0208af92\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\954714e9e25ac476b16b453e49ffc21e\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\954714e9e25ac476b16b453e49ffc21e\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\35f4199c55a06662ccc5371e0788e784\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\35f4199c55a06662ccc5371e0788e784\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d95258cd9b576983a3a2138220c82fb5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d95258cd9b576983a3a2138220c82fb5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1a89668d432483fc8231fd87eb156294\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1a89668d432483fc8231fd87eb156294\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a45ad8a9aeba5c09439d4b03d8f8f039\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a45ad8a9aeba5c09439d4b03d8f8f039\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e5812ccb032d2fe953a12d8f79e04290\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e5812ccb032d2fe953a12d8f79e04290\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fef96ff1e8f596b0185ebf2c2c908ff0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fef96ff1e8f596b0185ebf2c2c908ff0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a45ad8a9aeba5c09439d4b03d8f8f039\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:7:9-39
+	android:allowBackup
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:11:9-50
+activity#com.android.foodorderapp.OrderSucceessActivity
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:12:9-68
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:12:19-56
+activity#com.android.foodorderapp.PlaceYourOrderActivity
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:13:19-57
+activity#com.android.foodorderapp.RestaurantMenuActivity
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:14:9-60
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:14:19-57
+activity#com.android.foodorderapp.loginSession
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:15:9-50
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:15:19-47
+activity#com.android.foodorderapp.registerSession
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:16:9-53
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:16:19-50
+activity#com.android.foodorderapp.WelcomeActivity
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:17:9-53
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:17:19-50
+activity#com.android.foodorderapp.SplashActivity
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:18:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.android.foodorderapp.MainActivity
+ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml:25:19-47
+uses-sdk
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\446c24fd4874baaaef6cc596145fec7b\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\446c24fd4874baaaef6cc596145fec7b\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a12a64f6f966aec91edfe70816a0c676\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a12a64f6f966aec91edfe70816a0c676\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\c3a8f46195f835e4b61fe40ebe3a25fe\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\c3a8f46195f835e4b61fe40ebe3a25fe\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a69017cce96baf4931d08585db65cf95\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a69017cce96baf4931d08585db65cf95\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7a2653a1d183a57f9da394fcf3867c76\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7a2653a1d183a57f9da394fcf3867c76\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\663d76dc1b22fc662582e38aac757ed8\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\663d76dc1b22fc662582e38aac757ed8\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4904b48608e4679808f1ebc5a6fd8615\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4904b48608e4679808f1ebc5a6fd8615\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\0637ccca3c8e2a9d09cc8d4b034d3341\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\0637ccca3c8e2a9d09cc8d4b034d3341\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bfffe2268c8fc298f467db78899922fc\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bfffe2268c8fc298f467db78899922fc\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\30a656a144adb9370054f6a7a253f9e4\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\30a656a144adb9370054f6a7a253f9e4\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\16d93dbe90f687f8fbe5ab9317d339d8\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\16d93dbe90f687f8fbe5ab9317d339d8\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\6845eb483634f6505220a2bc4ffeef61\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\6845eb483634f6505220a2bc4ffeef61\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\668d1055f80a225c77821dcfe83fa06f\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\668d1055f80a225c77821dcfe83fa06f\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\3d036c4ec6f7c9f0c8bfb9608d0196b9\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\3d036c4ec6f7c9f0c8bfb9608d0196b9\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e231d2685c3ba59e75777f1b0208af92\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e231d2685c3ba59e75777f1b0208af92\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\954714e9e25ac476b16b453e49ffc21e\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\954714e9e25ac476b16b453e49ffc21e\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\35f4199c55a06662ccc5371e0788e784\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\35f4199c55a06662ccc5371e0788e784\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d95258cd9b576983a3a2138220c82fb5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d95258cd9b576983a3a2138220c82fb5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1a89668d432483fc8231fd87eb156294\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1a89668d432483fc8231fd87eb156294\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\653fc963629ec2fe6c7237f1a52dc3a3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\653fc963629ec2fe6c7237f1a52dc3a3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\f9d3eb4b5ff587969bc3a293e8ea18ed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\f9d3eb4b5ff587969bc3a293e8ea18ed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\599c462550e676cd393ae675ac7da255\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\599c462550e676cd393ae675ac7da255\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e13e44dad9a0fd7a5608e736f0419bac\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e13e44dad9a0fd7a5608e736f0419bac\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1798cb46206aaa543f2564a6084d4816\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1798cb46206aaa543f2564a6084d4816\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\70749ac521926678d6f9164bcaa6c6b3\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\70749ac521926678d6f9164bcaa6c6b3\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\3da9df4e5d28ad0b874b022913a29954\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\3da9df4e5d28ad0b874b022913a29954\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\34735fbdf09b2a9ea316524f90ad5634\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\34735fbdf09b2a9ea316524f90ad5634\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\815eff00d8453cbedb4f65811f60fdcc\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\815eff00d8453cbedb4f65811f60fdcc\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\b2fba923daa7b56b029a0f3971599d7c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\b2fba923daa7b56b029a0f3971599d7c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e13d270b284b33b8627196e37d61c989\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e13d270b284b33b8627196e37d61c989\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\10bbcd513cbde73a791c5db0b00796ef\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\10bbcd513cbde73a791c5db0b00796ef\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\da0c6217a49944ab951bad05be13d6c8\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\da0c6217a49944ab951bad05be13d6c8\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\816f103ef7cb5f90fce5a748d71047e7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\816f103ef7cb5f90fce5a748d71047e7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a45ad8a9aeba5c09439d4b03d8f8f039\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a45ad8a9aeba5c09439d4b03d8f8f039\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e5812ccb032d2fe953a12d8f79e04290\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e5812ccb032d2fe953a12d8f79e04290\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d6d3d02316e5bf9afe66e524c4dc1f4a\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d6d3d02316e5bf9afe66e524c4dc1f4a\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fef96ff1e8f596b0185ebf2c2c908ff0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fef96ff1e8f596b0185ebf2c2c908ff0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc57227fc39e3c623d63dbd1b7c943ec\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc57227fc39e3c623d63dbd1b7c943ec\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1d446565e575b16a164ada240890887d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1d446565e575b16a164ada240890887d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e783f050c7cbb7e22dcf477b29c97b77\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e783f050c7cbb7e22dcf477b29c97b77\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4045c111d475dbfa37e8ec329cec6829\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4045c111d475dbfa37e8ec329cec6829\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d8a2a92342ac075099ee2c807cf8d005\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\d8a2a92342ac075099ee2c807cf8d005\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e5d3cd0abb2516350ba6bd77852d5ce4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e5d3cd0abb2516350ba6bd77852d5ce4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4c0d66fee0c31f7cfe7ec10a110356f3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4c0d66fee0c31f7cfe7ec10a110356f3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\800ef25dde47bcd4d6f02b9ae8d1b763\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\800ef25dde47bcd4d6f02b9ae8d1b763\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4e0c21825b0c1593eff6523411f00e6b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\4e0c21825b0c1593eff6523411f00e6b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\9fe5f9aacdfa5ed166e1f29d068c81a3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\9fe5f9aacdfa5ed166e1f29d068c81a3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\07ef08cefe56f557fde1ad795932a8eb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\07ef08cefe56f557fde1ad795932a8eb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ed0c3676b9645a39b2550cf86e3b3379\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ed0c3676b9645a39b2550cf86e3b3379\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Toshiba R734\AndroidStudioProjects\FoodOrderApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:65:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\83122338c7f99eacfbcd88329dadc005\jetified-firebase-auth-21.0.6\AndroidManifest.xml:68:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e231d2685c3ba59e75777f1b0208af92\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\e231d2685c3ba59e75777f1b0208af92\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\ccc3005d2c1eef43af231962ea676d28\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\fd42b06ae821df74d46415d5c131470c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\87643975dbf50cc0a623818357426491\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\bc5fa9899c71ac909cc5bf1c2f5aaf2c\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\7fc62d08109ec60569d3339f6ad971f3\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\a3e4cbd0413743018be49983f1306a8a\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\61df053a7272eb1e1882ec9b896a3c72\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1a89668d432483fc8231fd87eb156294\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1a89668d432483fc8231fd87eb156294\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toshiba R734\.gradle\caches\transforms-2\files-2.1\1a89668d432483fc8231fd87eb156294\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58

@@ -1,0 +1,113 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height = "match_parent"
+    android:paddingLeft= "@dimen/activity_horizontal_margin"
+    android:paddingRight = "@dimen/activity_horizontal_margin"
+    android:paddingTop = "@dimen/activity_vertical_margin"
+    android:paddingBottom = "@dimen/activity_vertical_margin"
+    tools:context = ".loginSession"
+    android:background = "@drawable/splash" >
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif-black"
+        android:text="FoodOrderApp"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "Login"
+        android:id = "@+id/textView"
+        android:layout_below = "@+id/textview"
+        android:layout_centerHorizontal = "true"
+        android:textColor = "#03A9F4"
+        android:textSize = "35dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="338dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="43dp"
+        android:layout_marginLeft="43dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_bg"
+        android:focusable="true"
+        android:gravity="center"
+        android:hint="Email"
+        android:padding="10dp"
+        android:textColor="#4BB5E4"
+        android:textColorHighlight="#BA0B1A"
+        android:textColorHint="#F2EBF6" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="251dp"
+        android:layout_height="264dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ramen" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="342dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText"
+        android:layout_alignEnd="@+id/editText"
+        android:layout_alignRight="@+id/editText"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginLeft="41dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/button_bg"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textColor="#4BB5E4"
+        android:textColorHint="#F2EBF6" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="118dp"
+        android:layout_height="63dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-174dp"
+        android:layout_marginRight="-174dp"
+        android:layout_marginBottom="110dp"
+        android:layout_toStartOf="@+id/textview"
+        android:layout_toLeftOf="@+id/textview"
+        android:background="@drawable/button_bg"
+        android:text="login" />
+
+    <Button
+        android:id="@+id/buttonr"
+        android:layout_width="130dp"
+        android:layout_height="63dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-180dp"
+        android:layout_marginRight="-180dp"
+        android:layout_marginBottom="35dp"
+        android:layout_toStartOf="@+id/textview"
+        android:layout_toLeftOf="@+id/textview"
+        android:background="@drawable/button_bg"
+        android:text="registrasi" />
+
+</RelativeLayout>
